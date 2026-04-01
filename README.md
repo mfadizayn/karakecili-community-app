@@ -6,9 +6,9 @@ A modern community-based mobile application built with Flutter.
 
 ## 🚀 Overview
 
-Karakeçili is a mobile platform designed to connect communities through events, local businesses, and real-time interaction.
+Karakeçili is a scalable mobile platform designed to connect communities through events, local businesses, and real-time interaction.
 
-This project includes a complete system with mobile application, backend infrastructure, and admin logic.
+This project represents a complete system including mobile application, backend infrastructure, and real-time data flow.
 
 ---
 
@@ -16,32 +16,34 @@ This project includes a complete system with mobile application, backend infrast
 
 - 📅 Event system (upcoming & detailed events)
 - 🏢 Business directory (user submissions with admin approval)
-- 🔔 Real-time updates (Firebase)
-- 📍 Location-based content (map integration ready)
-- 🎨 Modern and user-friendly UI
+- 🔔 Real-time updates
+- 📍 Location-based structure (map-ready)
+- 🎨 Clean and modern UI
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 System Overview
 
-- Flutter (iOS & Android)
-- Firebase
-- Firestore
-- Cloud Functions
+This project demonstrates a full mobile application system:
 
----
-
-## 🧠 Architecture
-
-The system is built with a scalable architecture:
-
-- Mobile App → Flutter
-- Backend → Firebase (Firestore + Functions)
-- Admin Logic → Role-based system
+- Mobile app built with Flutter  
+- Backend powered by Firebase  
+- Real-time data handling  
+- Scalable and modular architecture  
 
 ---
 
-## 📸 Screenshots
+## 🏗 Architecture
+
+- **Mobile:** Flutter  
+- **Backend:** Firebase (Firestore + Cloud Functions)  
+- **Database:** Firestore  
+- **Data Flow:** Real-time updates  
+- **Structure:** Modular and scalable  
+
+---
+
+## 📸 App Screenshots
 
 <br/>
 
@@ -57,24 +59,36 @@ The system is built with a scalable architecture:
   <img src="https://github.com/user-attachments/assets/bdb21854-1d5b-4aaa-ac74-974c84dc149d" width="200"/>
 </p>
 
+---
+
+## 📁 Project Structure
+
+- lib/
+- backend/
+- docs/
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Project Status
 
-- Chat system
-- Push notification enhancements
-- Advanced admin panel
-- Analytics system
+Active and maintained project.  
+Continuously being improved and expanded.
 
 ---
 
-## 💡 About Me
+## 🔒 Source Code
+
+This project is actively used in production.
+
+The full source code is private.  
+This repository showcases the structure, features, and system design.
+
+---
+
+## 💡 About
 
 I build complete end-to-end systems including mobile apps, backend infrastructure, and admin panels.
 
 ---
 
-## 📫 Contact
-
-- 🌐 Website: https://mfadizayn.com
+🚀 I build complete systems, not just applications.
